@@ -1,32 +1,34 @@
-Công nghệ có vai trò vô cùng to lớn trong cuộc sống hằng ngày, từ những ứng dụng đơn giản nhất đến nhứng phát minh sáng tạo nhất. Mọi web hoặc phần mềm mà chúng ta bắt gặp đã được xây dựng bởi một người lập trình web. Nhưng chính xác phát triển web là cái gì? và người lập trình web làm gì?
-
-Nhìn từ ngoài, nó có vẻ phức tạp, khó hiểu và khó tiếp cận. vì vậy để làm sáng tỏ ngành công nghệ hấp dẫn này, chúng tôi đã cùng nhau đưa ra phần giới thiệu về phát triển web và những gì cần thiết để trở thành một lập trình viên web chính thức.
-
-Trong hướng dẫn, chúng ta đi qua những khái niệm cơ bản về phát triển web một cách chi tiết, và chỉ bạn những kỹ năng và công cụ thiết yểu bạn cần hiểu về ngành công nghệ này. nếu bạn quyết định phát triển web cho bạn, thì bước tiếp theo cần học những kỹ năng thiết yếu. 
-
-Ban đầu, mặc dù, chúng ta xem ngành công nghệ phát triển web như nó ở năm 2021, xem xét phát triển web có là một bước đi thông minh trong sự nghiệp. Đặc biệt với những tác đọng của năm 2020 và đại dịch covit 19.
+link: https://careerfoundry.com/en/blog/web-development/what-does-it-take-to-become-a-web-developer-everything-you-need-to-know-before-getting-started/?fbclid=IwAR0p0vNEUAzslMzKTctGYV6StCeybuRN7ncStGj1hvTK9a09byJKX3Xf4Co
 
 
-đây là những gì chúng tôi đề cập:
-	1. bây giời có phải là thời điểm tốt trở thành một lâp trình web(cập nhập 2021)
-	2. phát triển web là cái gì?
-	3. sơ lược về lịch sử của would wide web
-	4. một lập trình viên web làm gì?
-	5. ngôn ngữ lập trình, thư viện và fameWork 
-	6. những gì cần thiết để trờ thành một người lập trình viên web
+Công nghệ có vai trò vô cùng to lớn trong cuộc sống hằng ngày, từ những ứng dụng đơn giản nhất đến nhứng phát minh sáng tạo nhất. Mỗi 1 website hoặc phần mềm mà chúng ta bắt gặp đều được xây dựng/phát triển bởi 1 lập trình viên web. Nhưng chính xác phát triển web là cái gì? và người lập trình web làm gì?
 
-1. bây giời có phải là thời điểm tốt trở thành một lâp trình web(cập nhập 2021)
-	Trước khi bạn bước vào một nghề nghiệp mới, điều quan trọng là phải xem xét con đường phía trước. ngành công nghệ mới có thể cho bạn cơ hội và sự ổn định không? bạn có khả năng được tuyển dụng sau chương trình hoặc bootcamp k ?
+Nhìn từ ngoài, nó có vẻ phức tạp, khó hiểu và khó tiếp cận. Vì vậy để làm sáng tỏ ngành công nghệ hấp dẫn này, chúng tôi đã cùng nhau đưa ra phần giới thiệu về phát triển web và những gì cần thiết để trở thành một lập trình viên web chính thức.
 
-	trong năm 2020, những câu hỏi này quan trong hơn bao giờ hết. dại dịch covit 19 dã có tác động lớn đến nền kinh tế và thị trường việc làm, với sự chậm lại về việc tuyển dụng. với suy nghĩ đó, xem lại tình hình của ngành công nghệ phát triển web trong năm 2021
+Trong bài viết này, chúng ta đi qua những khái niệm cơ bản về phát triển web một cách chi tiết, và chỉ bạn những kỹ năng và công cụ thiết yểu bạn cần hiểu về ngành công nghệ này. Nếu bạn quyết định phát triển web cho bạn, thì bước tiếp theo cần học những kỹ năng thiết yếu. 
 
-	các người lập trình web có việc làm không?
+Đầu tiên thì chúng ta sẽ nhìn vào chỗ đứng/vị trí của ngành công nghiệp phát triển web trong năm 2021, Liệu lập trình web có phải là bước đi thông minh trong sự nghiệp, đặc biệt với những tác động/ảnh hưởng của dịch COVID-19x. Đặc biệt với những tác đọng của năm 2020 và đại dịch covit 19.
 
-	bạn sẽ nhận thấy, những vấn đề xảy ra trong thế giới xung quanh. công nghệ có khắp nơi trong cuộc sống. cho dù xem qua các ứng dụng yêu thích trên mạng xã hội, kiểm tra tin tức mới, thanh toán cho một cái gì đó trực tuyến, hoặc kết nối với đồng nghiệp sử dụng những phầm mềm hoặc công cụ tương tác. hầu hết chúng ta đều dựa vaò công nghệ. đằng sau công nghệ này là một nhóm các người lập trình web không chỉ xây dựng nó, liên tục duy trì nó để dảm bảo nó hoạt động hoàn hảo.
+Đây là những gì chúng tôi đề cập:
+	1. Bây giời có phải là thời điểm tốt trở thành một lâp trình web(cập nhập 2021)
+	2. Phát triển web là cái gì?
+	3. Sơ lược về lịch sử của would wide web
+	4. Một lập trình viên web làm gì?
+	5. Ngôn ngữ lập trình, thư viện và fameWork 
+	6. Những gì cần thiết để trờ thành một người lập trình viên web
+
+1. Bây giời có phải là thời điểm tốt trở thành một lâp trình web(cập nhập 2021)
+	Trước khi bạn bước vào một nghề nghiệp mới, điều quan trọng là phải xem xét con đường phía trước. Ngành công nghệ mới có thể cho bạn cơ hội và sự ổn định không? Bạn có khả năng được tuyển dụng sau chương trình hoặc bootcamp k ?
+
+	Trong năm 2020, những câu hỏi này quan trong hơn bao giờ hết. Đại dịch covit 19 dã có tác động lớn đến nền kinh tế và thị trường việc làm, với sự chậm lại về việc tuyển dụng. với suy nghĩ đó, xem lại tình hình của ngành công nghệ phát triển web trong năm 2021
+
+	Những lập trình web có việc làm không?
+
+	Bạn sẽ nhận thấy, những vấn đề xảy ra trong thế giới xung quanh. Công nghệ có khắp nơi trong cuộc sống. Cho dù xem qua các ứng dụng yêu thích trên mạng xã hội, kiểm tra tin tức mới, thanh toán cho một cái gì đó trực tuyến, hoặc kết nối với đồng nghiệp sử dụng những phầm mềm hoặc công cụ tương tác. Hầu hết chúng ta đều dựa vaò công nghệ. Đằng sau công nghệ này là một nhóm các người lập trình web không chỉ xây dựng nó, liên tục duy trì nó để dảm bảo nó hoạt động hoàn hảo.
 
 	Những người có thể xây dựng và duy trì trang web, ứng dụng và phần mềm có vai trò quan trọng trong thế giới công nghệ ngày nay - và điều này được phản ánh trong thị trường việc làm phát triển web. Theo Cục Thống kê Lao động, việc làm của các nhà phát triển web dự kiến ​​sẽ tăng 8% từ năm 2019 đến năm 2029 — nhanh hơn so với mức trung bình cho tất cả các ngành nghề.
  
- 	Nhưng điều này có còn sau những tác động của năm 2020? trong một từ yes, những người lập trình web có vẻ đã vượt qua cơn bão tương đối tốt. Nhà phát triển full-stack đứng thứ hai trong danh sách những công việc tốt nhất cho năm 2020, và chúng ta có thể thấy điều này tiếp tục đến năm 2021 và hơn nữa. chỉ cần tìm kiếm trên trang web các công nghệ được yêu cầu nhất vào năm 2021, và bạn sẽ tím thấy như phát triển web, điện toán đám mây(cloud computing), DevOps, và giải quyết vấn đề.
+ 	Nhưng điều này có còn sau những tác động của năm 2020? Trong một từ yes, những người lập trình web có vẻ đã vượt qua cơn bão tương đối tốt. Nhà phát triển full-stack đứng thứ hai trong danh sách những công việc tốt nhất cho năm 2020, và chúng ta có thể thấy điều này tiếp tục đến năm 2021 và hơn nữa. chỉ cần tìm kiếm trên trang web các công nghệ được yêu cầu nhất vào năm 2021, và bạn sẽ tím thấy như phát triển web, điện toán đám mây(cloud computing), DevOps, và giải quyết vấn đề.
 
- 	Đặc biệt phát triển full-stack sẽ tiếp tục có sức hấp dẫn cao đối với các nhà tuyển dụng
+ 	Đặc biệt phát triển full-stack sẽ tiếp tục có sức hấp dẫn cao đối với các nhà tuyển dụng. Viết cho TechCrunch, Sergio Granada lưu ý rằng các nhà phát triển full-stack đã đóng vai trò quan trọng như thế nào đối với hoạt động kinh doanh trong cuộc khủng hoảng COVID-19: “Để đối phó với đại dịch coronavirus, khả năng phát triển full-stack có thể khiến các kỹ sư trở nên cực kỳ khả thi với tư cách là các công ty trong tất cả các ngành chuyển công việc kinh doanh của họ sang thế giới ảo. Những người có thể nhanh chóng phát triển và cung cấp các dự án phần mềm nhờ các phương pháp toàn bộ sẽ có cơ hội tốt nhất để trở thành người đứng đầu danh sách mong muốn của công ty hoặc khách hàng. ”
 
